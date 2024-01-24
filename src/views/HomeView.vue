@@ -2,8 +2,8 @@
     <div class="container1">
         <div class="container2">
             <div class="part1">
-                <h1>Bienvenue dans l'application</h1>
-                <h1> Gestion des Congés</h1>
+                <h1>BIENVENUE DANS L'APPLICATION</h1>
+                <h1> GESTION DES CONGES</h1>
                 <h2>Cliquez sur le button login pour y accéder </h2>
             </div>
             <div class="part2">
@@ -50,7 +50,7 @@
    button
 {
     width: 200px;
-    height: 100px;
+    height: 80px;
     font-size: 40px;
     background-color: white;
     color: rgb(2, 2, 63);
